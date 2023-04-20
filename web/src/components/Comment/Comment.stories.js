@@ -20,7 +20,6 @@ export const moderatorView = () => {
     email: 'moderator@moderator.com',
     roles: 'moderator',
   })
-
   return (
     <Comment
       comment={{
